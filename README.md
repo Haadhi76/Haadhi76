@@ -2,7 +2,7 @@
 
 I'm **Haadhi Irfan**, an **AI & Software Engineer** passionate about building systems where **AI, security, and scalable software** meet.
 
-- 🎓 **MSc Artificial Intelligence & Machine Learning** — University of Birmingham (Expected First Class)
+- 🎓 **MSc Artificial Intelligence & Machine Learning** — University of Birmingham (Distinction)
 - 💻 **B.Tech (Hons.) Ocean Engineering & Naval Architecture** — IIT Kharagpur (First Class equivalent)
 - 🧠 Interested in **AI-driven development**, **agentic systems**, and **secure software engineering**
 - 🧩 Strong foundations in **Mathematics**, **Data Structures**, and **Algorithms**
