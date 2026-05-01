@@ -6,7 +6,7 @@ I'm **Haadhi Irfan**, an **AI & Software Engineer** passionate about building sy
 - 💻 **B.Tech (Hons.) Ocean Engineering & Naval Architecture** — IIT Kharagpur (First Class equivalent)
 - 🧠 Interested in **AI-driven development**, **agentic systems**, and **secure software engineering**
 - 🧩 Strong foundations in **Mathematics**, **Data Structures**, and **Algorithms**
-- ⚙️ I enjoy exploring how **AI tools like Claude Sonnet-4 and GPT-4o** can enhance productivity and code quality
+- ⚙️ I enjoy exploring how **AI tools like Claude Opus-4.7 and Gemma-4** can enhance productivity and code quality
 - 💬 Ask me about: Python, AI Systems Design, Prompt Engineering, or Math-based problem solving
 - ♟️ Fun fact: I love playing chess and explaining mathematical concepts to students
 - 📫 Reach me: **haadhi.irfan@gmail.com**
