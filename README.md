@@ -1,35 +1,45 @@
 # Hello, I'm Haadhi 👋 [![](https://visitcount.itsvg.in/api?id=Haadhi76&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Applied AI engineer — agent systems, evaluation, and adoption for financial services.**
+**AI consultant — agent systems, evaluation, and adoption.**
 
-I make AI adoption real, measurable, and Sharia-aware. My work ships with numbers attached: a production multi-agent copilot with **93% intent-routing accuracy** and **210+ automated tests**, a tutoring system preferred over GPT-4 in **65% of blinded expert evaluations**, and RLHF pipelines trained over **200M samples**.
+I go into a domain, build the AI system that works there, prove it works with rigorous evaluation, and teach the people to use it. That loop has repeated across education, marine VR, NGO operations, maintenance KPIs, and Islamic finance.
+
+My work ships with numbers attached: a production multi-agent copilot with **93% intent-routing accuracy** and **210+ automated tests**, a tutoring system preferred over GPT-4 in **65% of blinded expert evaluations**, and an LLM-judge evaluation suite built on the principle that **judge noise must be measured, not hidden**.
+
+**Available now for consulting engagements.**
 
 🌐 **Portfolio:** [haadhi76.github.io/Portfolio](https://haadhi76.github.io/Portfolio/) · 📫 haadhi.irfan@gmail.com · [LinkedIn](https://linkedin.com/in/haadhi)
 
 ---
 
-## 🔭 What I'm building now
+## 🔭 What I'm doing now
 
-- ⚖️ **MizanBench** — the first open benchmark for LLM reasoning on Islamic finance: structured eval cases across riba, murabaha, zakat, ijara, gharar, and sukuk with an LLM-judge harness. *Open-source release at v1 (100+ cases + frontier-model leaderboard).*
-- 🎤 **AI Birmingham** ([Fautons](https://fautons.com/events/ai-birmingham/), official Anthropic Claude Partner Network member) — co-speaker at weekly hands-on sessions teaching AI-agent workflows to non-developers.
-- 🏢 **AI enablement at Imobisoft** — agentic developer tooling and adoption measurement across a 16-engineer, 5-team org.
-- ✍️ Monthly essays on agent evaluation and AI adoption — first one ships July 2026.
+- 🧩 **Independent consulting** — agent systems, evaluation harnesses, and AI adoption programmes. Available for engagements.
+- 🚢 **Shipping one product end-to-end** — start through deployment and monitoring. Public when it's live, not before.
+- 🎤 **AI Birmingham** ([Fautons](https://fautons.com/events/ai-birmingham/), official Anthropic Claude Partner Network member) — co-lead of weekly hands-on sessions teaching AI-agent workflows to non-developers.
+- ⚖️ **Islamic-finance evaluation** — an early exploration into how LLMs reason about riba, murabaha, zakat, ijara, gharar, and sukuk. Currently a v0 scaffold, not a released benchmark.
 
 ---
-
 ## 🚀 Selected work
 
 | Project | What it is | The number that matters |
 |---|---|---|
-| **MizanBench** | Open benchmark for LLM reasoning on Sharia-compliant finance | v1: 100+ AAOIFI-grounded eval cases |
-| **Navigator Copilot** | Production multi-agent KPI microservice (LangGraph · FastAPI · Groq) | 93% intent routing · 210+ tests, 100% live pass rate |
-| **[StAnify](https://github.com/Haadhi76/StAnify)** | Multi-agent visual-storytelling tutor (MSc thesis, Distinction) | Preferred over GPT-4 in 65% of blinded A/B evals · 17–25x faster lesson prep |
-| **[DVS-LSTM](https://github.com/Haadhi76/Deep_Visibility_Series_Forecasting)** | Hybrid visibility-graph + attention architecture for climate forecasting | Beat all DL baselines by 2–5% · 10x HPC speedup |
+| **Navigator Copilot** | Production multi-agent KPI microservice — LangGraph · FastAPI · Llama-3.3-70B via Groq *(consulting engagement, Mar–May 2026)* | 93% intent routing on a 29-question benchmark · 210+ tests |
+| **AI enablement at Imobisoft** | Sole builder of internal AI tooling for a 16-person, 5-team branch — agent workflows, an LLM-judge evaluation suite, and a token/cost monitor *(Jun–Aug 2026)* | Reviewer gate caught pre-commit defects in 13 of 13 units |
+| **[StAnify](https://github.com/Haadhi76/StAnify)** | Multi-agent visual-storytelling tutor with LLM-judge critics inside the generation loop (MSc thesis, Distinction) | Preferred over GPT-4 in 65% of blinded A/B evals · 50–80 min of prep → ~3 min |
+| **[DVS-LSTM](https://github.com/Haadhi76/Deep_Visibility_Series_Forecasting)** | Hybrid visibility-graph + attention architecture for climate forecasting | Beat all DL baselines by 2–5% · ~10x HPC speedup |
 
 🎓 MSc AI & ML, University of Birmingham — **Distinction, top 3% of cohort** · B.Tech, IIT Kharagpur
 
 ---
 
+## 🧪 How I work
+
+Automated testing is how I build, not an afterthought — **279 pytest** on a local-first learning hub (grown from 117), **301 Vitest + 8 Playwright** specs on its frontend, **pgTAP 44/44** for Postgres row-level-security policies. I write tests that can fail meaningfully: non-vacuous negative tests, concurrency regressions that reproduce a real cross-thread bug, and gate-proving scripts that deliberately break each CI gate and assert the pipeline fails.
+
+The finding that shaped how I think about evaluation: across a multi-month field log, **a wrong number survived four review gates and 315 passing tests**. The measurement layer, not the model, was the failure.
+
+---
 ## 🧰 Tech Stack
 
 **AI & LLM**
